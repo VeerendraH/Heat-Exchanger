@@ -12,8 +12,7 @@
 4. Use Finite Element Method or Finite Difference Method and find out the unknown Temperature Distribution and solve for the unknown.
 5. Find out Other physical Quantities related to the Problem.
 
-To run the Program, open Setup_Exchanger.m and input the physical variables and conditions.
-Once you are done with that, proceed to run Heat_Exchanger.m
-
+To run the Program, open [Setup_Exchanger.m](https://github.com/VeerendraH/Heat-Exchanger-/blob/master/Basic/Setup_Heat_Exchanger.m) and input the physical variables and conditions.
+Once you are done with that, proceed to run [Heat_Exchanger.m](https://github.com/VeerendraH/Heat-Exchanger-/blob/master/Basic/Heat_Exchanger.m)
 
 
